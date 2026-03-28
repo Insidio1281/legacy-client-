@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "itemframeplacer",
+  "version": "1.0.0",
+  "name": "ItemFramePlacer",
+  "description": "Automatically places and removes whitelisted blocks in item frames",
+  "authors": ["Insidio1281"],
+  "contact": {
+    "homepage": "https://github.com/Insidio1281/ItemFramePlacer",
+    "sources": "https://github.com/Insidio1281/ItemFramePlacer"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "meteor-addon": [
+      "com.insidio.itemframeplacer.ItemFramePlacer"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.13.0",
+    "minecraft": "1.18.x",
+    "meteorclient": "*"
+  }
+}
