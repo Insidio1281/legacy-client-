@@ -1,2 +1,2 @@
 # legacy-client-
-man i just wanna make a fucking mod ive been up since 4am 
+How tf do i make this a .jar 
